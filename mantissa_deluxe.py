@@ -46,9 +46,5 @@ def main():
     print i.exponent
     print i.mantissa
 
-    rating = " "
-    if isinstance(rating, int):
-        print "nope"
-
 if __name__ == '__main__':
     main()
